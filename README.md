@@ -76,9 +76,11 @@ YAMLIFY revolutionizes the way developers interact with Spheron's Infrastructure
 ## Architecture :
 ![image](https://github.com/user-attachments/assets/1f9be493-ef86-4246-befd-e3e7183d4179)
 ## DEMO
-![image](https://github.com/user-attachments/assets/67a11d7f-a54e-4de0-ab47-b404c781d38c)
-![image](https://github.com/user-attachments/assets/6d6307f9-6838-41e8-b8ac-c1771ae56935)
-![image](https://github.com/user-attachments/assets/7b72cf85-51c2-4a31-aaf6-a0f160366f88)
+![Screenshot 2025-02-17 155138](https://github.com/user-attachments/assets/eee25c69-c314-4a3e-9cfd-ac2d497196b8)
+![Screenshot 2025-02-17 155212](https://github.com/user-attachments/assets/58ee85bc-c29a-46f6-94e9-e9e26a36fda1)
+![Screenshot 2025-02-17 155527](https://github.com/user-attachments/assets/56ec79b0-edfe-4bb6-8f9d-f5dce75e7be1)
+![Screenshot 2025-02-17 155340](https://github.com/user-attachments/assets/67434ece-d5e8-4a14-89bd-9fd4a9b9cab8)
+
 ## 🔮 Future Roadmap
 
 We're continuously working to enhance YAMLIFY with exciting new features:
